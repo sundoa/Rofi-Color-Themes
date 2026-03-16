@@ -13,13 +13,13 @@ configuration {
 
 * {
         background-color: rgba(0, 0, 0,0.75);
-        text-color: #4D6173;
+        text-color: #535157;
 
-    	accent-color: #B17731;
-    	accent2-color: #7E96C1;
-    	hover-color: #B17731;
-    	urgent-color: #4D6173;
-    	window-color: #7171C8;
+    	accent-color: #9FADCB;
+    	accent2-color: #DEC6AE;
+    	hover-color: #9FADCB;
+    	urgent-color: #535157;
+    	window-color: #7382A6;
 
         selected-normal-foreground: @window-color;
         normal-foreground:          @text-color;
